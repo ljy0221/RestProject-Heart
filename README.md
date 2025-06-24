@@ -9,9 +9,15 @@
 
 <br/><br/>
 
-## 프로젝트 실행
-1. flutter pub get
-2. flutter run
+## 주요 개발 업무
+
+### Flutter 기반 모바일 앱 개발
+- Widget 기반 UI 컴포넌트 설계 및 구현 (메인, 로그인, 통계 화면)
+- MediaQuery를 활용한 반응형 디자인 적용
+
+### 백엔드 연동 및 데이터 처리
+- HTTP 패키지를 통한 RESTful API 연동
+- SharedPreferences를 통한 로컬 데이터 저장소 구현
 
 <br/><br/>
 
